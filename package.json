@@ -1,0 +1,19 @@
+{
+  "name": "cors-all",
+  "version": "1.0.0",
+  "description": "This module builds a wrapper over the http request module to allow avoid CORS errors in frontend applications in DEV mode. Production Mode usage is highly discouraged as all the services it is using are for testing only.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/harishydav/cors-all.git"
+  },
+  "author": "Harish Yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/harishydav/cors-all/issues"
+  },
+  "homepage": "https://github.com/harishydav/cors-all#readme"
+}
